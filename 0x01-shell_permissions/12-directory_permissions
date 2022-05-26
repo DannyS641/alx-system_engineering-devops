@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp Holberton hello
+mkdir -m 751 dir_holberton
